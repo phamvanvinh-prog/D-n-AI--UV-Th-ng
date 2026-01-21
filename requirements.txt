@@ -1,0 +1,16 @@
+# Web framework
+streamlit
+
+# AI/LLM
+google-generativeai
+
+# Core dependencies
+pydantic
+pydantic-settings
+
+# Utilities
+tenacity
+
+# Test dependencies
+pytest
+pytest-cov
